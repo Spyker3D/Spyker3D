@@ -13,6 +13,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+### &#9993; Контакты: 
+<div id="badges">
+    <a href="https://t.me/Spyker3D">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+    <a href="mailto:spyker403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
+
+---          
+**Примеры моих основных проектов:**
+  - [Приложение по поиску вакансий](https://github.com/Spyker3D/EasyJob)
+  - [Приложение для создания плейлистов](https://github.com/Spyker3D/PlaylistMaker)      
+
+
+
 
 
 
