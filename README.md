@@ -26,6 +26,7 @@
 
 ---          
 **Примеры моих основных проектов:**
+  - [Фоновый аудиоплеер для проигрывания отрывков треков](https://github.com/Spyker3D/TrackSnippetPlayer)
   - [Приложение для создания списка покупок](https://github.com/Spyker3D/ShoppingList)
   - [Приложение по поиску вакансий](https://github.com/Spyker3D/EasyJob)
   - [Приложение для создания плейлистов](https://github.com/Spyker3D/PlaylistMaker)      
