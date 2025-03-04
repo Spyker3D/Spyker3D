@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json" alt="Json" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
 </div>
 
 ### &#9993; Контакты: 
